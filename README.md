@@ -1,5 +1,5 @@
 # url2QR
-This script converts input URL into a binary encoded QR code. 
+This script converts input URL into a binary encoded QR code PNG image. 
 It also installs pyqrcode and pypng using pip commands  which are required for this process. 
 
 Output : You will get a my_QR.png file as an output stored at C:\temp2
